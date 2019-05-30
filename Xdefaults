@@ -1,0 +1,4 @@
+xterm*background:	steelblue
+xterm*foreground:	azure
+xterm*loginShell:	true
+
